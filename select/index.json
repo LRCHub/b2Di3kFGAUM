@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "NEO",
+  "base_artist": "じん",
+  "createdAt": "2026-02-28T10:58:30.681229Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On My Own (feat. Gen Neo)",
+      "artist": "AMBER feat. Gen Neo",
+      "has_synced": true,
+      "path": "select/01_On_My_Own_(feat._Gen_Neo)_AMBER_feat._Gen_Neo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On My Own (Korean ver.) (feat. Gen Neo)",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/02_On_My_Own_(Korean_ver.)_(feat._Gen_Neo)_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On My Own (feat. Gen Neo)",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/03_On_My_Own_(feat._Gen_Neo)_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Best Friend (Feat. The Flying Dutchman aka Neo Sa)",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/04_My_Best_Friend_(Feat._The_Flying_Dutchman_aka_Neo_Sa)_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Neo Nothing - Post of All",
+      "artist": "Falco",
+      "has_synced": false,
+      "path": "select/05_Neo_Nothing_-_Post_of_All_Falco.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Neo-Tokyo",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/06_Neo-Tokyo_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Neo-Tokyo (Aviators Remix)",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/07_Neo-Tokyo_(Aviators_Remix)_Scandroid.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neo-Tokyo (Chromatique Remix)",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/08_Neo-Tokyo_(Chromatique_Remix)_Scandroid.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Neo-Tokyo (Chromatique Remix)",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/09_Neo-Tokyo_(Chromatique_Remix)_Scandroid.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Neo-Tokyo (Dance with the Dead Remix)",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/10_Neo-Tokyo_(Dance_with_the_Dead_Remix)_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Neo Consumer",
+      "artist": "Super Furry Animals",
+      "has_synced": false,
+      "path": "select/11_Neo_Consumer_Super_Furry_Animals.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime)",
+      "artist": "Scott Walker",
+      "has_synced": true,
+      "path": "select/12_The_Old_Man's_Back_Again_(Dedicated_To_The_Neo-Stalinist_Regime)_Scott_Walker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEO",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_NEO_じん.txt"
+    }
+  ]
+}
